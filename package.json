@@ -1,0 +1,58 @@
+{
+  "name": "bespokevitae",
+  "version": "1.0.0",
+  "description": "Bespoke Vitae",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Liquid-Agency/Bespoke-Vitae"
+  },
+  "keywords": [
+    "Bespoke",
+    "fe"
+  ],
+  "author": "Liquid Agency",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Liquid-Agency/Bespoke-Vitae"
+  },
+  "homepage": "https://github.com/Liquid-Agency/Bespoke-Vitae",
+  "devDependencies": {
+    "clean": "^4.0.2",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-clean-css": "^2.0.13",
+    "gulp-concat": "^2.6.1",
+    "gulp-concat-css": "^2.3.0",
+    "gulp-imagemin": "^3.0.3",
+    "gulp-jslint": "^1.0.5",
+    "gulp-less": "^3.1.0",
+    "gulp-livereload": "^3.8.1",
+    "gulp-notify": "^2.2.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-util": "^3.0.7",
+    "moment": "^2.15.1",
+    "path": "^0.12.7",
+    "plumber": "^0.4.8"
+  },
+  "dependencies": {
+    "bootstrap3": "",
+    "gulp-less-sourcemap": "^1.4.3",
+    "gulp-main-npm-files": "^1.0.5",
+    "instafeed.js": "^1.4.1",
+    "isotope": "^1.0.0-alpha.1",
+    "isotope-layout": "^3.0.2",
+    "isotope-packery": "^2.0.0",
+    "jquery-lazyload": "^1.9.7",
+    "lightbox2": "^2.9.0",
+    "modernizr": "^3.5.0",
+    "select2": "^4.0.3",
+    "slick-carousel": "^1.6.0",
+    "waypoints": "^4.0.1"
+  }
+}
